@@ -1,0 +1,113 @@
+{
+    "main": {
+      "name": "James Dabajo",
+      "occupation": "Web Development Student",
+      "description": "and work as a Dialysis Technician",
+      "image": "profilepic.jpg",
+      "bio": "I'm a Gamer leaning into becoming a Game Developer or 3D artist after I go to college.",
+      "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "chumilyrockz@yahoo.com",
+      "phone": "862-684-3872",
+      "address": {
+        "street": "752 Joralemon Street",
+        "city": "Belleville",
+        "state": "New Jersey",
+        "zip": "07109"
+      },
+      "website": ""
+    },
+    "resume": {
+      "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+      "education": [
+        {
+          "school": "Rutgers University",
+          "degree": "Web Development Bootcamp",
+          "graduated": "April 2022",
+          "description": "Here I took my first step into the Technology Field not having any knowledge in coding. I learned everything there is to know about Web Development. I'm proficient in the front-end part of web development, the back-end is little bit in progress."
+        },
+        {
+          "school": "Cebu Doctor's University",
+          "degree": "Bachelors of Science in Physical Therapy",
+          "graduated": "March 2015",
+          "description": "I only studied for a year and had to stop to immigrate here in the United States"
+        }
+      ],
+      "work": [
+        {
+          "company": "SpecialtyRx",
+          "title": "Lead Technician, Narotics Technician, Shipping Technician",
+          "years": "July 2017 - September 2020",
+          "description": "When I was Lead Technician, I was in charge of 5 departments and making sure the deliveries were out in time. Got awarded once as an Employee of the Month"
+        },
+        {
+          "company": "Freseiuns Kidney Care",
+          "title": "Patient Care Technician",
+          "years": "September 2020 - December 2021",
+          "description": "As a Patient Care Technician, my role was to provide direct and indirect health care to patients by assisting with medical treatments and basic daily needs, monitoring their health, and performing basic nursing procedures."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Git",
+          "level": "40%"
+        },
+        {
+          "name": "ReactJs",
+          "level": "50%"
+        },
+        {
+          "name": "CSS",
+          "level": "90%"
+        },
+        {
+          "name": "HTML5",
+          "level": "80%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "60%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "The Joke-Inator",
+          "category": "The 1st Interactive Front-End Project using only HTML, CSS, Javascript, and API",
+          "image": "joke-inator.jpg",
+          "url": "https://rauchdavis13.github.io/Project-1/"
+        },
+        {
+          "title": "MCU Countdown",
+          "category": "Interactive Full-stack Project using Node.js, Express.js, Handlebars.js, MySQL, and Sequelize ORM.",
+          "image": "mcu-countdown.jpg",
+          "url": "https://mcu-countdown-clock.herokuapp.com/"
+        },
+        {
+          "title": "Note Taker",
+          "category": "Project created to write and save notes",
+          "image": "note-taker.jpg",
+          "url": "https://the11thsteptodeath.herokuapp.com/"
+        },
+        {
+          "title": "Geek Test",
+          "category": "The Geek Test is to know how geek you are with questions about Culture World!",
+          "image": "geek-test.jpg",
+          "url": "https://mrpinkpanther10.github.io/4th-Step-to-Death/"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user": "Kareem Abdul Jabbar"
+        },
+        {
+          "text": "That James Dabajo must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user": "Steve Wozniak... impersonator"
+        }
+      ]
+    }
+  }
+  
