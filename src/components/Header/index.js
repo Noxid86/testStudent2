@@ -23,7 +23,6 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
  
       </nav>
@@ -31,7 +30,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm currently a <span>{occupation}</span> in Rutgers University. {description}.</h3>
+            <h3>I'm currently a <span>{occupation}</span> in Rutgers University, {description}.</h3>
             <hr />
          </div>
       </div>
